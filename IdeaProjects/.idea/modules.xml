@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comments/Comments.iml" filepath="$PROJECT_DIR$/Comments/Comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompareStrings/CompareStrings.iml" filepath="$PROJECT_DIR$/CompareStrings/CompareStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decision Structures/Decision Structures.iml" filepath="$PROJECT_DIR$/Decision Structures/Decision Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reading Input using JOptionPane/Reading Input using JOptionPane.iml" filepath="$PROJECT_DIR$/Reading Input using JOptionPane/Reading Input using JOptionPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reading Input using Scanner/Reading Input using Scanner.iml" filepath="$PROJECT_DIR$/Reading Input using Scanner/Reading Input using Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheSwitchStatement/TheSwitchStatement.iml" filepath="$PROJECT_DIR$/TheSwitchStatement/TheSwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usefull loop calculations/Usefull loop calculations.iml" filepath="$PROJECT_DIR$/Usefull loop calculations/Usefull loop calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables, Literals and Constants/Variables, Literals and Constants.iml" filepath="$PROJECT_DIR$/Variables, Literals and Constants/Variables, Literals and Constants.iml" />
+    </modules>
+  </component>
+</project>
